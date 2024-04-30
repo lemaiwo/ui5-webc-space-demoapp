@@ -1,0 +1,19 @@
+{
+  "generator-ui5-ts-app": {
+    "namespace": "be.wl.space.demoapp",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.123.0",
+    "author": "lemaiwo",
+    "initrepo": true,
+    "tstypes": "@openui5/types",
+    "tstypesVersion": "1.123.0",
+    "appId": "be.wl.space.demoapp",
+    "appURI": "be/wl/space/demoapp",
+    "cdnDomain": "sdk.openui5.org",
+    "defaultTheme": "sap_horizon",
+    "gte1_98_0": true,
+    "gte1_104_0": true,
+    "gte1_115_0": true,
+    "setupCompleted": true
+  }
+}
