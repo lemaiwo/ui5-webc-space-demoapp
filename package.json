@@ -21,7 +21,7 @@
 		"wdi5": "wdio run ./webapp/test/e2e/\\wdio.conf.ts"
 	},
 	"dependencies": {
-		"be.wl.space": "file:../be.wl.space"
+		"be.wl.space": "file:../ui5-webc-space-library"
 	},
 	"devDependencies": {
 		"@openui5/types": "^1.123.0",
